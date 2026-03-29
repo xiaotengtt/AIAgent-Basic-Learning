@@ -1,0 +1,2 @@
+这是一个FastAPI项目
+欢迎大家一起学习FastAPI！
